@@ -1,0 +1,40 @@
+abstract final class HrRoutePaths {
+  static const dashboard = '/hr';
+  static const employees = '/hr/employees';
+  static const employeeDetail = '/hr/employees';
+  static const departments = '/hr/departments';
+  static const positions = '/hr/positions';
+  static const attendance = '/hr/attendance';
+  static const attendanceHistory = '/hr/attendance/history';
+  static const shifts = '/hr/shifts';
+  static const leaveRequests = '/hr/leave';
+  static const payroll = '/hr/payroll';
+  static const payrollDetails = '/hr/payroll/details';
+  static const salaryStructures = '/hr/salary-structures';
+  static const bonuses = '/hr/bonuses';
+  static const deductions = '/hr/deductions';
+  static const commissions = '/hr/commissions';
+  static const performanceReviews = '/hr/performance';
+  static const documents = '/hr/documents';
+  static const reports = '/hr/reports';
+}
+
+abstract final class HrRouteNames {
+  static const dashboard = 'hr-dashboard';
+  static const employees = 'hr-employees';
+  static const departments = 'hr-departments';
+  static const positions = 'hr-positions';
+  static const attendance = 'hr-attendance';
+  static const attendanceHistory = 'hr-attendance-history';
+  static const shifts = 'hr-shifts';
+  static const leaveRequests = 'hr-leave';
+  static const payroll = 'hr-payroll';
+  static const payrollDetails = 'hr-payroll-details';
+  static const salaryStructures = 'hr-salary-structures';
+  static const bonuses = 'hr-bonuses';
+  static const deductions = 'hr-deductions';
+  static const commissions = 'hr-commissions';
+  static const performanceReviews = 'hr-performance';
+  static const documents = 'hr-documents';
+  static const reports = 'hr-reports';
+}

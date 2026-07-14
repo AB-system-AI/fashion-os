@@ -1,0 +1,18 @@
+﻿{
+  "@@locale": "ar",
+  "appTitle": "فاشن بوينت أوف سيل",
+  "foundationReady": "الأساس جاهز",
+  "foundationDescription": "تم تهيئة الأساس الإنتاجي. سيتم بناء الميزات على هذا الهيكل.",
+  "retry": "إعادة المحاولة",
+  "loading": "جاري التحميل...",
+  "emptyStateTitle": "لا يوجد محتوى بعد",
+  "emptyStateDescription": "سيظهر المحتوى هنا عند توفره.",
+  "errorGeneric": "حدث خطأ ما",
+  "errorNetwork": "لا يوجد اتصال بالإنترنت",
+  "errorServer": "خطأ في الخادم. يرجى المحاولة لاحقاً.",
+  "themeLight": "فاتح",
+  "themeDark": "داكن",
+  "themeSystem": "النظام",
+  "languageEnglish": "الإنجليزية",
+  "languageArabic": "العربية"
+}

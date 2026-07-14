@@ -1,0 +1,49 @@
+abstract final class PosRoutePaths {
+  static const dashboard = '/pos';
+  static const sales = '/pos/sales';
+  static const cashSession = '/pos/cash-session';
+  static const openDrawer = '/pos/cash-session/open';
+  static const closeDrawer = '/pos/cash-session/close';
+  static const productSearch = '/pos/search';
+  static const barcode = '/pos/barcode';
+  static const cart = '/pos/cart';
+  static const customer = '/pos/customer';
+  static const payment = '/pos/payment';
+  static const receipt = '/pos/receipt';
+  static const reprint = '/pos/receipt/reprint';
+  static const suspend = '/pos/suspend';
+  static const resume = '/pos/resume';
+  static const returns = '/pos/returns';
+  static const exchange = '/pos/exchange';
+  static const coupons = '/pos/coupons';
+  static const giftReceipt = '/pos/gift-receipt';
+  static const layaway = '/pos/layaway';
+  static const cashMovements = '/pos/cash-movements';
+  static const cashHistory = '/pos/cash-history';
+  static const reports = '/pos/reports';
+}
+
+abstract final class PosRouteNames {
+  static const dashboard = 'pos-dashboard';
+  static const sales = 'pos-sales';
+  static const cashSession = 'pos-cash-session';
+  static const openDrawer = 'pos-open-drawer';
+  static const closeDrawer = 'pos-close-drawer';
+  static const productSearch = 'pos-product-search';
+  static const barcode = 'pos-barcode';
+  static const cart = 'pos-cart';
+  static const customer = 'pos-customer';
+  static const payment = 'pos-payment';
+  static const receipt = 'pos-receipt';
+  static const reprint = 'pos-reprint';
+  static const suspend = 'pos-suspend';
+  static const resume = 'pos-resume';
+  static const returns = 'pos-returns';
+  static const exchange = 'pos-exchange';
+  static const coupons = 'pos-coupons';
+  static const giftReceipt = 'pos-gift-receipt';
+  static const layaway = 'pos-layaway';
+  static const cashMovements = 'pos-cash-movements';
+  static const cashHistory = 'pos-cash-history';
+  static const reports = 'pos-reports';
+}
